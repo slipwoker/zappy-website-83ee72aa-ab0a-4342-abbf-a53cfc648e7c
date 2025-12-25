@@ -1,0 +1,57 @@
+# OffScript Events — Generative Engine Optimization Map
+
+> A events and entertainment business.
+
+---
+
+## Pages
+
+### Home
+https://offscript-events-83ee72aa.zappy5.app
+Discover expert event production services that deliver unique, alternative experiences. Contact us today for events that break the mold!
+
+### Services
+https://offscript-events-83ee72aa.zappy5.app/services
+Professional event production companies services tailored to your unique vision. From concept to execution, we deliver alternative events that inspire.
+
+### About
+https://offscript-events-83ee72aa.zappy5.app/about
+Learn about OffScript Events - a leading name in live event production companies committed to creating alternative, memorable experiences.
+
+### Contact
+https://offscript-events-83ee72aa.zappy5.app/contact
+Contact OffScript Events to discuss your event production services needs. Let's create something different together.
+
+## Legal & Policy
+
+### Privacy Policy
+https://offscript-events-83ee72aa.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://offscript-events-83ee72aa.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://offscript-events-83ee72aa.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About OffScript Events
+OffScript Events is a business in the events and entertainment industry.
+
+## Target Audience
+clients seeking different and alternative events
+
+## Industry
+events and entertainment
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://offscript-events-83ee72aa.zappy5.app/sitemap.xml
+- **Robots.txt**: https://offscript-events-83ee72aa.zappy5.app/robots.txt
